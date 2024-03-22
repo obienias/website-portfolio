@@ -2,9 +2,9 @@ import React from 'react';
 import { CheckBadgeIcon, CpuChipIcon } from "@heroicons/react/24/solid";
 import { skills } from "../data.jsx";
 
-export default function  Skills()  {
+export default function Skills() {
   return (
-<section id="skills" className="h-screen bg-black">
+    <section id="skills" className="h-screen bg-black">
       <div className="container px-5 py-10 mx-auto">
         <div className="text-center mb-20">
           <CpuChipIcon className="w-10 inline-block mb-4" />
