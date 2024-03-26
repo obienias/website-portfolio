@@ -15,7 +15,7 @@ export default function About() {
             I am a Software Engineer with a background in Architecture and Building Information Modeling (BIM). Proficient in complex problem-solving, data management, and task automation. Committed to delivering efficient and scalable solutions while continuously adapting to industry best practices.
           </p>
           <div className="flex justify-center">
-            <a href="./Resume - O Bienias.pdf"
+            <a href="Resume - O Bienias.pdf"
               className="inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg" target="_blank" rel="noopener noreferrer">
               My Resume
             </a>
@@ -29,7 +29,7 @@ export default function About() {
           <img
             className="object-cover object-center rounded"
             alt="hero"
-            src="./olga.jpg"
+            src="olga.jpg"
           />
         </div>
       </div>
